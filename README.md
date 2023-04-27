@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Hello there, Welcome.
-
 - 🔭 I’m currently working on Nowhere
 - 🌱 I’m currently learning React
 

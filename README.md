@@ -13,4 +13,4 @@ Hello there, Welcome.
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 
-<img src"https://github-readme-stats.vercel.app/api?username=BS-Joy">
+[![Badhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=BS-Joy)](https://github.com/BS-Joy/github-readme-stats)

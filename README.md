@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Nowhere
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Next js
 
 - 💬 Ask me about Nothing!
 - 📫 How to reach me: badhansamadder5@gmail.com

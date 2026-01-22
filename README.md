@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Nowhere
+- 🔭 I’m currently working at Nowhere
 - 🌱 I’m currently learning Full Stack
 
 - 💬 Ask me about Nothing!
